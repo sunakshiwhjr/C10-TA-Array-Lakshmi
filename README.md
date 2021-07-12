@@ -1,2 +1,1 @@
-# C10-TA-Array-Lakshmi
-Lakshmi
+# C10_teacher_activity_1
